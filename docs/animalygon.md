@@ -52,7 +52,7 @@ Kumo（以下「当運営者」）は、ゲームアプリ「アニマリゴン�
 
 本アプリ内のアカウント削除機能から、アカウントと対象データの削除を申し込めます。ただし、購入・返金・不正防止・法令対応に必要な取引記録は、必要な範囲で保持する場合があります。情報の確認、訂正、削除その他のお問い合わせは、以下へご連絡ください。
 
-**quiz.animal.book.55@gmail.com**
+**animalygon@gmail.com**
 
 ## 8. 未成年者
 
@@ -118,7 +118,7 @@ We retain information for as long as necessary to provide the service, handle pu
 
 Users can request deletion of their account and applicable data through the account deletion feature in the App. We may retain transaction records where necessary for purchases, refunds, fraud prevention, or legal compliance. For access, correction, deletion, or other privacy questions, contact:
 
-**quiz.animal.book.55@gmail.com**
+**animalygon@gmail.com**
 
 ## 8. Children
 
